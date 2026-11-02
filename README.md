@@ -17,11 +17,11 @@ I'm a passionate Computer Science graduate interested in building modern, respon
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code
 - **Other:** REST APIs, Responsive Web Design
-- ### 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahima5848&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mahima5848&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima5848&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Mahima5848&layout=compact&theme=tokyonight)
 
 ### 🧰 Tech Stack
 
